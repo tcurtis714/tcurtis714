@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Tyler Curtis 👋
 
 <!--
 **tcurtis714/tcurtis714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
