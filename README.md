@@ -1,5 +1,8 @@
 ## Hi there, I'm Tyler Curtis 👋
+I am a senior at the University of Oklahoma. I major in Information Science and Technology. Currently, I work as a Production Assistant at SoonerVision on campus.
 
+- 📫 How to reach me: tcurtis714@gmail.com
+- 🔭 Learn more about [SoonerVision](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://soonersports.com/sports/2019/8/13/208803558)
 <!--
 **tcurtis714/tcurtis714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
